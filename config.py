@@ -1,0 +1,12 @@
+BOT_TOKEN=("8182911562:AAGHfQnIUmefuCtVMO0w2zDQwfPUdAGYD68")
+
+OWNER_USERNAME=("@madhursaini7")
+
+ADMIN_IDS=("5486683891")
+
+
+
+
+
+
+  
